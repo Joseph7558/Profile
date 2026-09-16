@@ -28,7 +28,7 @@ I’m a Computer Science & Engineering student passionate about **Cybersecurity,
 
 I have completed internships in **Cybersecurity** and **MERN Stack Software Development**, gaining practical experience in security concepts, vulnerability assessment, web application security, and full-stack development.
 
-🚀 **Currently:** Building projects, strengthening my cybersecurity skills, and preparing for a career as a **SOC Analyst**, with a long-term goal of moving into **Penetration Testing & Red Teaming**.
+🚀 **Currently:** Building projects, strengthening my cybersecurity skills, Software Development, and preparing for a career as a **SOC Analyst**, with a long-term goal of moving into **Penetration Testing & Red Teaming**.
 
 📌 **Interested in:** Cybersecurity • SOC • Ethical Hacking • VAPT • Web Security • MERN Stack • Secure Development
 
